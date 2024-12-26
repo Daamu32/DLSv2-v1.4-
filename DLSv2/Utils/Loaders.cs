@@ -14,7 +14,7 @@ internal class Loaders
 {
     public static Dictionary<Model, DLSModel> ParseVCFs()
     {
-        var path = @"Plugins\DLS\";
+        var path = @"Plugins\DLSv2\";
         var registeredModels = new Dictionary<Model, DLSModel>();
 
         var attrOverrides = new XmlAttributeOverrides();

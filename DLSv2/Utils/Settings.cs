@@ -7,7 +7,7 @@ using Threads;
 
 class Settings
 {
-    internal static InitializationFile INI = new(@"Plugins\DLS.ini");
+    internal static InitializationFile INI = new(@"Plugins\DLSv2.ini");
 
     /// SETTINGS
     // General
